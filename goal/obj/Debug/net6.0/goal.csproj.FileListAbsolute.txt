@@ -1,0 +1,15 @@
+C:\Users\HeavenX\Desktop\FTW\goal\bin\Debug\net6.0\goal.exe
+C:\Users\HeavenX\Desktop\FTW\goal\bin\Debug\net6.0\goal.deps.json
+C:\Users\HeavenX\Desktop\FTW\goal\bin\Debug\net6.0\goal.runtimeconfig.json
+C:\Users\HeavenX\Desktop\FTW\goal\bin\Debug\net6.0\goal.dll
+C:\Users\HeavenX\Desktop\FTW\goal\bin\Debug\net6.0\goal.pdb
+C:\Users\HeavenX\Desktop\FTW\goal\obj\Debug\net6.0\goal.csproj.AssemblyReference.cache
+C:\Users\HeavenX\Desktop\FTW\goal\obj\Debug\net6.0\goal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeavenX\Desktop\FTW\goal\obj\Debug\net6.0\goal.AssemblyInfoInputs.cache
+C:\Users\HeavenX\Desktop\FTW\goal\obj\Debug\net6.0\goal.AssemblyInfo.cs
+C:\Users\HeavenX\Desktop\FTW\goal\obj\Debug\net6.0\goal.csproj.CoreCompileInputs.cache
+C:\Users\HeavenX\Desktop\FTW\goal\obj\Debug\net6.0\goal.dll
+C:\Users\HeavenX\Desktop\FTW\goal\obj\Debug\net6.0\refint\goal.dll
+C:\Users\HeavenX\Desktop\FTW\goal\obj\Debug\net6.0\goal.pdb
+C:\Users\HeavenX\Desktop\FTW\goal\obj\Debug\net6.0\goal.genruntimeconfig.cache
+C:\Users\HeavenX\Desktop\FTW\goal\obj\Debug\net6.0\ref\goal.dll
